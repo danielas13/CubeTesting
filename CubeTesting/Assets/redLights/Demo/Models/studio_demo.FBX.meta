@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 06d86302104eafe4e8d2d491f078281c
+timeCreated: 1424173177
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Boxlampe01_fuss
+    100002: Boxlampe02_fuss
+    100004: ground_mat
+    100006: hocker
+    100008: Kopf
+    100010: kopf
+    100012: Kopf 1
+    100014: Kopf 2
+    100016: leinwand
+    100018: pedestal
+    100020: Plane001
+    100022: Schirmlampe_fuss
+    100024: Spotlampe_fuss
+    100026: staender_001
+    100028: staender_001 1
+    100030: staender_002
+    100032: staender_002 1
+    100034: staender_003
+    100036: staender_003 1
+    100038: staender_01
+    100040: staender_01 1
+    100042: staender_02
+    100044: staender_02 1
+    100046: staender_03
+    100048: //RootNode
+    100050: Teapot001
+    100052: staender_03 1
+    100054: Boxlampe01_Kopf
+    100056: Boxlampe01_staender_01
+    100058: Boxlampe01_staender_02
+    100060: Boxlampe01_staender_03
+    100062: Boxlampe02_Kopf
+    100064: Boxlampe02_staender_001
+    100066: Boxlampe02_staender_002
+    100068: Boxlampe02_staender_003
+    100070: Schirmlampe_Kopf
+    100072: Schirmlampe_staender_01
+    100074: Schirmlampe_staender_02
+    100076: Schirmlampe_staender_03
+    100078: Spotlampe_kopf
+    100080: Spotlampe_staender_001
+    100082: Spotlampe_staender_002
+    100084: Spotlampe_staender_003
+    100086: Boxlampe03_fuss
+    100088: Boxlampe03_Kopf
+    100090: Boxlampe03_staender
+    100092: Boxlampe03_staender 1
+    100094: Boxlampe03_staender 2
+    100096: Box001
+    100098: work_light
+    100100: florescent_lamp_frame
+    400000: Boxlampe01_fuss
+    400002: Boxlampe02_fuss
+    400004: ground_mat
+    400006: hocker
+    400008: Kopf
+    400010: kopf
+    400012: Kopf 1
+    400014: Kopf 2
+    400016: leinwand
+    400018: pedestal
+    400020: Plane001
+    400022: Schirmlampe_fuss
+    400024: Spotlampe_fuss
+    400026: staender_001
+    400028: staender_001 1
+    400030: staender_002
+    400032: staender_002 1
+    400034: staender_003
+    400036: staender_003 1
+    400038: staender_01
+    400040: staender_01 1
+    400042: staender_02
+    400044: staender_02 1
+    400046: staender_03
+    400048: //RootNode
+    400050: Teapot001
+    400052: staender_03 1
+    400054: Boxlampe01_Kopf
+    400056: Boxlampe01_staender_01
+    400058: Boxlampe01_staender_02
+    400060: Boxlampe01_staender_03
+    400062: Boxlampe02_Kopf
+    400064: Boxlampe02_staender_001
+    400066: Boxlampe02_staender_002
+    400068: Boxlampe02_staender_003
+    400070: Schirmlampe_Kopf
+    400072: Schirmlampe_staender_01
+    400074: Schirmlampe_staender_02
+    400076: Schirmlampe_staender_03
+    400078: Spotlampe_kopf
+    400080: Spotlampe_staender_001
+    400082: Spotlampe_staender_002
+    400084: Spotlampe_staender_003
+    400086: Boxlampe03_fuss
+    400088: Boxlampe03_Kopf
+    400090: Boxlampe03_staender
+    400092: Boxlampe03_staender 1
+    400094: Boxlampe03_staender 2
+    400096: Box001
+    400098: work_light
+    400100: florescent_lamp_frame
+    2300000: Boxlampe01_fuss
+    2300002: Boxlampe02_fuss
+    2300004: ground_mat
+    2300006: hocker
+    2300008: Kopf
+    2300010: kopf
+    2300012: Kopf 1
+    2300014: Kopf 2
+    2300016: leinwand
+    2300018: pedestal
+    2300020: Plane001
+    2300022: Schirmlampe_fuss
+    2300024: Spotlampe_fuss
+    2300026: staender_001
+    2300028: staender_001 1
+    2300030: staender_002
+    2300032: staender_002 1
+    2300034: staender_003
+    2300036: staender_003 1
+    2300038: staender_01
+    2300040: staender_01 1
+    2300042: staender_02
+    2300044: staender_02 1
+    2300046: staender_03
+    2300048: Teapot001
+    2300050: staender_03 1
+    2300052: Boxlampe01_Kopf
+    2300054: Boxlampe01_staender_01
+    2300056: Boxlampe01_staender_02
+    2300058: Boxlampe01_staender_03
+    2300060: Boxlampe02_Kopf
+    2300062: Boxlampe02_staender_001
+    2300064: Boxlampe02_staender_002
+    2300066: Boxlampe02_staender_003
+    2300068: Schirmlampe_Kopf
+    2300070: Schirmlampe_staender_01
+    2300072: Schirmlampe_staender_02
+    2300074: Schirmlampe_staender_03
+    2300076: Spotlampe_kopf
+    2300078: Spotlampe_staender_001
+    2300080: Spotlampe_staender_002
+    2300082: Spotlampe_staender_003
+    2300084: Boxlampe03_fuss
+    2300086: Boxlampe03_Kopf
+    2300088: Boxlampe03_staender
+    2300090: Boxlampe03_staender 1
+    2300092: Boxlampe03_staender 2
+    2300094: Box001
+    2300096: work_light
+    2300098: florescent_lamp_frame
+    3300000: Boxlampe01_fuss
+    3300002: Boxlampe02_fuss
+    3300004: ground_mat
+    3300006: hocker
+    3300008: Kopf
+    3300010: kopf
+    3300012: Kopf 1
+    3300014: Kopf 2
+    3300016: leinwand
+    3300018: pedestal
+    3300020: Plane001
+    3300022: Schirmlampe_fuss
+    3300024: Spotlampe_fuss
+    3300026: staender_001
+    3300028: staender_001 1
+    3300030: staender_002
+    3300032: staender_002 1
+    3300034: staender_003
+    3300036: staender_003 1
+    3300038: staender_01
+    3300040: staender_01 1
+    3300042: staender_02
+    3300044: staender_02 1
+    3300046: staender_03
+    3300048: Teapot001
+    3300050: staender_03 1
+    3300052: Boxlampe01_Kopf
+    3300054: Boxlampe01_staender_01
+    3300056: Boxlampe01_staender_02
+    3300058: Boxlampe01_staender_03
+    3300060: Boxlampe02_Kopf
+    3300062: Boxlampe02_staender_001
+    3300064: Boxlampe02_staender_002
+    3300066: Boxlampe02_staender_003
+    3300068: Schirmlampe_Kopf
+    3300070: Schirmlampe_staender_01
+    3300072: Schirmlampe_staender_02
+    3300074: Schirmlampe_staender_03
+    3300076: Spotlampe_kopf
+    3300078: Spotlampe_staender_001
+    3300080: Spotlampe_staender_002
+    3300082: Spotlampe_staender_003
+    3300084: Boxlampe03_fuss
+    3300086: Boxlampe03_Kopf
+    3300088: Boxlampe03_staender
+    3300090: Boxlampe03_staender 1
+    3300092: Boxlampe03_staender 2
+    3300094: Box001
+    3300096: work_light
+    3300098: florescent_lamp_frame
+    4300000: Boxlampe01_fuss
+    4300002: staender_01
+    4300004: staender_02
+    4300006: staender_03
+    4300008: Kopf
+    4300010: Boxlampe02_fuss
+    4300012: staender_001
+    4300014: staender_002
+    4300016: staender_003
+    4300018: Kopf
+    4300020: ground_mat
+    4300022: hocker
+    4300024: leinwand
+    4300026: pedestal
+    4300028: Plane001
+    4300030: Schirmlampe_fuss
+    4300032: staender_01
+    4300034: staender_02
+    4300036: Kopf
+    4300038: Spotlampe_fuss
+    4300040: staender_001
+    4300042: staender_002
+    4300044: staender_003
+    4300046: kopf
+    4300048: Teapot001
+    4300050: staender_03
+    4300052: Boxlampe01_staender_01
+    4300054: Boxlampe01_staender_02
+    4300056: Boxlampe01_staender_03
+    4300058: Boxlampe01_Kopf
+    4300060: Boxlampe02_staender_001
+    4300062: Boxlampe02_staender_002
+    4300064: Boxlampe02_staender_003
+    4300066: Boxlampe02_Kopf
+    4300068: Schirmlampe_staender_01
+    4300070: Schirmlampe_staender_02
+    4300072: Schirmlampe_staender_03
+    4300074: Schirmlampe_Kopf
+    4300076: Spotlampe_staender_001
+    4300078: Spotlampe_staender_002
+    4300080: Spotlampe_staender_003
+    4300082: Spotlampe_kopf
+    4300084: work_light
+    4300086: Box001
+    4300088: florescent_lamp_frame
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boxlampe01_fuss
+        weight: 1
+      - path: Boxlampe01_fuss/staender_01
+        weight: 1
+      - path: Boxlampe01_fuss/staender_01/staender_02
+        weight: 1
+      - path: Boxlampe01_fuss/staender_01/staender_02/staender_03
+        weight: 1
+      - path: Boxlampe01_fuss/staender_01/staender_02/staender_03/Kopf 1
+        weight: 1
+      - path: Boxlampe02_fuss
+        weight: 1
+      - path: Boxlampe02_fuss/staender_001
+        weight: 1
+      - path: Boxlampe02_fuss/staender_001/staender_002
+        weight: 1
+      - path: Boxlampe02_fuss/staender_001/staender_002/staender_003
+        weight: 1
+      - path: Boxlampe02_fuss/staender_001/staender_002/staender_003/Kopf 2
+        weight: 1
+      - path: ground_mat
+        weight: 1
+      - path: hocker
+        weight: 1
+      - path: leinwand
+        weight: 1
+      - path: pedestal
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Schirmlampe_fuss
+        weight: 1
+      - path: Schirmlampe_fuss/staender_01 1
+        weight: 1
+      - path: Schirmlampe_fuss/staender_01 1/staender_02 1
+        weight: 1
+      - path: Schirmlampe_fuss/staender_01 1/staender_02 1/Kopf
+        weight: 1
+      - path: Spotlampe_fuss
+        weight: 1
+      - path: Spotlampe_fuss/staender_001 1
+        weight: 1
+      - path: Spotlampe_fuss/staender_001 1/staender_002 1
+        weight: 1
+      - path: Spotlampe_fuss/staender_001 1/staender_002 1/staender_003 1
+        weight: 1
+      - path: Spotlampe_fuss/staender_001 1/staender_002 1/staender_003 1/kopf
+        weight: 1
+      - path: Teapot001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
